@@ -40,7 +40,7 @@
 ### 📌 Projects
 
 - **Shopify LLM Tooling**  
-  Fine-tuned LLM that generates full store scaffolds and adjusts pricing with real-time metrics (RAG).
+  Fine-tuned LLM that generates full store scaffolds and keeps them optimized by adjusting product descriptions, pricing, and SEO using competitor and real-time market data.
 
 - **Geolocation-Based Service Exchange App**  
   Web app where users post services and match by proximity; Flask backend + Supabase.
