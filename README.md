@@ -1,29 +1,27 @@
-<!-- Profile Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08C8F6,100:3743AB&height=200&section=header&text=Nengjia%20Li&fontSize=40&fontColor=ffffff" alt="banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Nengjia Li 👋</h1>
+<h1 align="center">Nengjia Li</h1>
 
 <p align="center">
-  🤖 Robotics Champion • 🧠 AI Engineer • 🌐 Full-Stack Developer • 🇨🇦 Waterloo CEng '25
+  Computer Engineering @ University of Waterloo · AI & Robotics · Full-Stack Development
 </p>
 
 ---
 
-### 🔍 About Me
+### 👤 About Me
 
-- 🎓 Incoming **Computer Engineering student @ University of Waterloo**
-- 🛠️ Lead CAD & Programming @ **Devolotics FTC Team** (1st in Ontario, Worlds competitor)
-- 🤖 Builder of interactive STEM kits, mechanical robots, and embedded control systems
-- 🧠 Fine-tuning LLMs for Shopify store generation + dynamic pricing via RAG
-- 🧰 Developer of full-stack apps with Flask, Supabase, Gemini, and React
-- 🎮 Game designer of story-based platformers w/ 2D dialogue arrays, sprite combat
-- 🧾 Passionate about creating automation, open-source tools, and intuitive AI UX
+- Computer Engineering student @ Waterloo ('30)
+- Lead programmer & CAD for Devolotics (1st in Ontario, FTC Worlds competitor)
+- Building LLM tooling for Shopify automation + RAG pricing models
+- Developing full-stack web apps with geolocation filters, user profiles, and real-time data
+- Comfortable working across embedded systems, game development, and AI infrastructure
 
 ---
 
-### ⚙️ Tech Stack
+### 🧰 Tools & Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -39,24 +37,20 @@
 
 ---
 
-### 🚀 Highlight Projects
+### 📌 Projects
 
-#### 🧠 Shopify LLM Store Generator
-- Generates product ideas, blog posts, SEO titles, and hero prompts from raw notes
-- RAG-powered pricing negotiation using real-time Shopify metrics
+- **Shopify LLM Tooling**  
+  Fine-tuned LLM that generates full store scaffolds and adjusts pricing with real-time metrics (RAG).
 
-#### 🌍 Service-for-Service Web App
-- Flask + JS-based skill exchange app with geolocation filters and editable listings
+- **Geolocation-Based Service Exchange App**  
+  Web app where users post services and match by proximity; Flask backend + Supabase.
 
-#### 📱 AI Interview Trainer
-- Voice-based mock interview assistant (Twilio + Gemini), auto-records transcripts
-
-#### 🎮 Monkey King's Journey
-- Java/Processing game with platforming, sprite combat, and cutscenes via 2D array
+- **AI Interview Bot**  
+  Voice-based interview simulator using Twilio + Gemini, logging results in Supabase.
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nengjiali&theme=tokyonight&hide_border=true"/>
@@ -68,7 +62,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 📬 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/nengjiali" target="_blank">
@@ -77,13 +71,9 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://nengjiali.github.io" target="_blank">
+  <a href="https://Ninjtheturtle.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nengjiali&style=flat-square&color=blue" alt="profile views"/>
-</p>
