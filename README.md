@@ -17,7 +17,9 @@
 - Lead programmer & CAD for Devolotics (1st in Ontario, FTC Worlds competitor)
 - Building LLM tooling for Shopify automation + RAG pricing models
 - Developing full-stack web apps with geolocation filters, user profiles, and real-time data
-- Comfortable working across embedded systems, game development, and AI infrastructure
+- Built custom OpenCV pipelines for FTC robotics (object tracking, AprilTag detection, contour filtering)
+- Used TensorFlow Lite for on-robot ML inference and model integration in autonomous routines
+
 
 ---
 
