@@ -1,15 +1,15 @@
 # Nengjia Li
 
-**Computer Engineering @ University of Waterloo** *AI & Robotics · Perception & Localization · Full-Stack Development*
+**Computer Engineering @ University of Waterloo** *Deep Learning · Computer Vision · Autonomous Robotics*
 
 ---
 
 ### Profile
-Computer Engineering student (Class of 2030) specializing in the intersection of deep learning and autonomous robotics. Currently developing custom SLAM engines and LLM-driven automation.
+Computer Engineering student (Class of 2030) focused on perception, localization, and motion planning for autonomous systems. Currently developing custom SLAM engines and high-performance robotic controllers.
 
-* **Robotics:** Lead Programmer for Devolotics (FTC Worlds Competitor). Extensive experience in OpenCV pipelines and TensorFlow Lite for real-time ML inference.
-* **AI & Research:** Researching traffic prediction models using Mamba/Transformers and building monocular visual SLAM systems.
-* **Software:** Full-stack development with a focus on real-time data and LLM-powered business automation.
+* **Robotics:** Lead Programmer for Devolotics (FTC Worlds Competitor). Extensive experience implementing OpenCV pipelines and TensorFlow Lite for real-time edge inference.
+* **Research:** Developing traffic prediction models using Mamba/Transformer architectures and building monocular visual SLAM systems.
+* **Software:** Full-stack development with an emphasis on real-time data integration and robotics tooling.
 
 ---
 
@@ -17,16 +17,16 @@ Computer Engineering student (Class of 2030) specializing in the intersection of
 
 **Languages** `C++` · `Python` · `Java` · `JavaScript` · `Arduino`
 
-**Frameworks & Tools** `React` · `Flask` · `Tailwind CSS` · `Firebase` · `Supabase` · `OpenCV` · `TensorFlow`
+**Frameworks & Tools** `OpenCV` · `TensorFlow` · `React` · `Flask` · `Tailwind CSS` · `Firebase` · `Supabase`
 
 ---
 
 ### Projects
 
-* **Visual SLAM Engine:** A custom monocular system for real-time localization and mapping.
-* **Shopify LLM Automation:** Fine-tuned models for automated store scaffolding and real-time market-based SEO adjustments.
-* **Kinodynamic Motion Planner:** High-performance trajectory planning for complex robotic maneuvers.
-* **AI Interview Simulator:** Voice-based simulator utilizing Twilio and Gemini for automated candidate screening.
+* **Visual SLAM Engine:** Custom monocular system designed for real-time localization and mapping in dynamic environments.
+* **Kinodynamic Motion Planner:** High-performance trajectory planning for non-holonomic robotic constraints and complex maneuvers.
+* **Traffic Prediction Model:** Research project utilizing Mamba and Transformer blocks to forecast urban traffic flow.
+* **Sensor Fusion State Estimator:** Extended Kalman Filter (EKF) implementation for precise robot pose estimation.
 
 ---
 
