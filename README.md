@@ -4,33 +4,33 @@
 
 ---
 
-### 👤 Profile
-I am a Computer Engineering student at the University of Waterloo (Class of 2030) focused on the intersection of deep learning and robotics. My work ranges from building custom SLAM engines to developing LLM-powered automation tools.
+### Profile
+Computer Engineering student (Class of 2030) specializing in the intersection of deep learning and autonomous robotics. Currently developing custom SLAM engines and LLM-driven automation.
 
-* **Robotics:** Lead Programmer for Devolotics (FTC Worlds Competitor). Expert in custom OpenCV pipelines and TensorFlow Lite for on-robot ML inference.
-* **AI & Research:** Developing traffic prediction models using Mamba/Transformers and building monocular visual SLAM systems.
-* **Software:** Full-stack development with a focus on real-time data, geolocation services, and LLM-driven automation.
+* **Robotics:** Lead Programmer for Devolotics (FTC Worlds Competitor). Extensive experience in OpenCV pipelines and TensorFlow Lite for real-time ML inference.
+* **AI & Research:** Researching traffic prediction models using Mamba/Transformers and building monocular visual SLAM systems.
+* **Software:** Full-stack development with a focus on real-time data and LLM-powered business automation.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-**Languages & Core** `C++` · `Python` · `Java` · `JavaScript` · `Arduino`
+**Languages** `C++` · `Python` · `Java` · `JavaScript` · `Arduino`
 
 **Frameworks & Tools** `React` · `Flask` · `Tailwind CSS` · `Firebase` · `Supabase` · `OpenCV` · `TensorFlow`
 
 ---
 
-### 📌 Featured Projects
+### Projects
 
-* **Visual SLAM Engine** A custom monocular SLAM system for real-time localization and mapping.
-* **Shopify LLM Automation** Fine-tuned LLM tooling for generating optimized store scaffolds and real-time SEO/pricing adjustments based on market data.
-* **Kinodynamic Motion Planner** High-performance trajectory planning for robotic systems.
-* **AI Interview Simulator** Voice-based simulator using Twilio and Gemini for realistic interview practice.
+* **Visual SLAM Engine:** A custom monocular system for real-time localization and mapping.
+* **Shopify LLM Automation:** Fine-tuned models for automated store scaffolding and real-time market-based SEO adjustments.
+* **Kinodynamic Motion Planner:** High-performance trajectory planning for complex robotic maneuvers.
+* **AI Interview Simulator:** Voice-based simulator utilizing Twilio and Gemini for automated candidate screening.
 
 ---
 
-### 📬 Connect with me
+### Contact
 
 <p align="left">
   <a href="https://linkedin.com/in/nengjiali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -39,4 +39,4 @@ I am a Computer Engineering student at the University of Waterloo (Class of 2030
 </p>
 
 ---
-<p align="center"><i>"Building the future of perception and autonomy."</i></p>
+<p align="center"><i>Building the future of perception and autonomy.</i></p>
