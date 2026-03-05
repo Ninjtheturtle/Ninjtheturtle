@@ -2,34 +2,37 @@
 
 # Nengjia Li
 
-**Computer Engineering @ University of Waterloo** *Deep Learning · Computer Vision · Autonomous Robotics*
+**Computer Engineering @ University of Waterloo**
+*Deep Learning · Computer Vision · Autonomous Robotics*
 
 ---
 
-### Profile
-Computer Engineering student (Class of 2030) specializing in perception and motion planning.
+### <span style="color:#0077B5">Profile</span>
+Computer Engineering student specializing in **perception** and **motion planning**.
 
-**Robotics** Lead Programmer for Devolotics (FTC Worlds Competitor). Implemented OpenCV pipelines and TensorFlow Lite for real-time edge inference.
-
-**Research** Developed traffic prediction models via Mamba/Transformers and monocular visual SLAM systems.
-
----
-
-### Projects
-
-**Visual SLAM Engine** Monocular system for real-time localization and mapping in dynamic environments.
-
-**Kinodynamic Motion Planner** Trajectory planning for non-holonomic robotic constraints and complex maneuvers.
-
-**Sensor Fusion State Estimator** Extended Kalman Filter (EKF) implementation for precise robot pose estimation.
+**Robotics** · Lead Programmer for Devolotics (FTC Worlds).
+**Research** · Mamba/Transformer traffic prediction and Monocular vSLAM.
 
 ---
 
-### Contact
+### <span style="color:#0077B5">Projects</span>
+
+**Visual SLAM Engine**
+Real-time monocular localization and mapping.
+
+**Kinodynamic Motion Planner**
+Trajectory planning for non-holonomic constraints.
+
+**Sensor Fusion Estimator**
+Extended Kalman Filter (EKF) for precise pose estimation.
+
+---
+
+### <span style="color:#0077B5">Connect</span>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nengjiali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-121013?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@uwaterloo.ca" target="_blank"><img src="https://img.shields.io/badge/Gmail-121013?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/nengjiali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-121013?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@uwaterloo.ca" target="_blank"><img src="https://img.shields.io/badge/Gmail-121013?style=flat-square&logo=gmail&logoColor=D14836" alt="Gmail" /></a>
   <a href="https://Ninjtheturtle.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121013?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
