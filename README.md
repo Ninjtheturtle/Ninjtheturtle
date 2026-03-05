@@ -1,69 +1,42 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08C8F6,100:3743AB&height=200&section=header&text=Nengjia%20Li&fontSize=40&fontColor=ffffff" alt="banner"/>
-</p>
+# Nengjia Li
 
-<h1 align="center">Nengjia Li</h1>
-
-<p align="center">
-  Computer Engineering @ University of Waterloo · AI & Robotics · Full-Stack Development
-</p>
+**Computer Engineering @ University of Waterloo** *AI & Robotics · Perception & Localization · Full-Stack Development*
 
 ---
 
-### 👤 About Me
+### 👤 Profile
+I am a Computer Engineering student at the University of Waterloo (Class of 2030) focused on the intersection of deep learning and robotics. My work ranges from building custom SLAM engines to developing LLM-powered automation tools.
 
-- Computer Engineering student @ Waterloo ('30)
-- Lead programmer & CAD for Devolotics (1st in Ontario, FTC Worlds competitor)
-- Building LLM tooling for Shopify automation + RAG pricing models
-- Developing full-stack web apps with geolocation filters, user profiles, and real-time data
-- Built custom OpenCV pipelines for FTC robotics (object tracking, AprilTag detection, contour filtering)
-- Used TensorFlow Lite for on-robot ML inference and model integration in autonomous routines
-
+* **Robotics:** Lead Programmer for Devolotics (FTC Worlds Competitor). Expert in custom OpenCV pipelines and TensorFlow Lite for on-robot ML inference.
+* **AI & Research:** Developing traffic prediction models using Mamba/Transformers and building monocular visual SLAM systems.
+* **Software:** Full-stack development with a focus on real-time data, geolocation services, and LLM-driven automation.
 
 ---
 
-### 🧰 Tools & Languages
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+**Languages & Core** `C++` · `Python` · `Java` · `JavaScript` · `Arduino`
+
+**Frameworks & Tools** `React` · `Flask` · `Tailwind CSS` · `Firebase` · `Supabase` · `OpenCV` · `TensorFlow`
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects
 
-- **Shopify LLM Tooling**  
-  Fine-tuned LLM that generates full store scaffolds and keeps them optimized by adjusting product descriptions, pricing, and SEO using competitor and real-time market data.
-
-- **Geolocation-Based Service Exchange App**  
-  Web app where users post services and match by proximity; Flask backend + Supabase.
-
-- **AI Interview Bot**  
-  Voice-based interview simulator using Twilio + Gemini, logging results in Supabase.
+* **Visual SLAM Engine** A custom monocular SLAM system for real-time localization and mapping.
+* **Shopify LLM Automation** Fine-tuned LLM tooling for generating optimized store scaffolds and real-time SEO/pricing adjustments based on market data.
+* **Kinodynamic Motion Planner** High-performance trajectory planning for robotic systems.
+* **AI Interview Simulator** Voice-based simulator using Twilio and Gemini for realistic interview practice.
 
 ---
 
-### 📬 Contact
+### 📬 Connect with me
 
-<p align="center">
-  <a href="https://linkedin.com/in/nengjiali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://Ninjtheturtle.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="left">
+  <a href="https://linkedin.com/in/nengjiali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@uwaterloo.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://Ninjtheturtle.github.io"><img src="https://img.shields.io/badge/Portfolio-121013?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
+<p align="center"><i>"Building the future of perception and autonomy."</i></p>
