@@ -27,7 +27,7 @@ Computer Engineering student ('30) focused on autonomous systems. I develop high
 
 ### Contact
 <a href="https://linkedin.com/in/nengjiali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
-<a href="mailto:your.email@uwaterloo.ca" target="_blank"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;
+<a href="mailto:nengjia.li@uwaterloo.ca" target="_blank"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;
 <a href="https://Ninjtheturtle.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
 
 ---
