@@ -1,24 +1,19 @@
 # Nengjia Li
 **Computer Engineering @ University of Waterloo**
-*Perception · Localization · Motion Planning*
 
 ---
 
 ### Profile
-Computer Engineering student ('30) focused on autonomous systems. I develop high-performance controllers and custom perception engines for robotics.
+Computer Engineering student ('30) focused on autonomous systems.
 
 * **Robotics** | Lead Programmer for Devolotics (FTC Worlds Competitor).
-* **Perception** | Implementation of OpenCV pipelines and Edge ML via TensorFlow Lite.
-* **Research** | Traffic flow forecasting (Mamba/Transformers) and Monocular Visual SLAM.
+* **Research** | Traffic flow forecasting (Mamba/Transformers) with RBC Borealis
 
 ---
 
 ### Core Projects
 **Visual SLAM Engine**
-> Real-time monocular localization and mapping for dynamic environments.
-
-**Kinodynamic Motion Planner**
-> High-performance trajectory planning for non-holonomic robotic constraints.
+> Real-time Visual SLAM engine from scratch
 
 **Sensor Fusion State Estimator**
 > EKF implementation for precise pose estimation and sensor integration.
